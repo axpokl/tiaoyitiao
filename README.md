@@ -1,6 +1,5 @@
-# tiaoyitiao
 跳一跳作弊器Pascal版
-=============
+-------------
 * http://axpokl.com/tiaoyitiao.zip
 * https://github.com/axpokl/tiaoyitiao
 -------------
